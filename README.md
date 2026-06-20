@@ -1,18 +1,18 @@
-# 📚 Library Management System
+# 1 Library Management System
 
 A modern, feature-rich web application for managing library operations including book inventory, student records, issue/return tracking, fine calculations, and comprehensive reporting.
 
 ---
 
-## 🎯 Overview
+## 2 Overview
 
 The Library Management System is a React-based web application designed to streamline library operations. It provides administrators and users with tools to manage books, track student records, issue and return books, calculate fines, send notifications, and generate detailed reports and history.
 
 ---
 
-## ✨ Features
+## 3 Features
 
-### 📖 Core Features
+### 4 Core Features
 - **Book Management**: Manage library book inventory with add, edit, and delete functionality
 - **Student Records**: Maintain detailed student information and library profiles
 - **Issue & Return Books**: Track book issuance and returns with automatic history logging
@@ -22,12 +22,12 @@ The Library Management System is a React-based web application designed to strea
 - **History Tracking**: Maintain complete history of all book transactions
 - **Admin Panel**: Centralized dashboard for administrative operations
 
-### 👥 User Management
+### 5 User Management
 - **Login & Signup**: Secure user authentication system
 - **Student Portal**: Students can view their books and transaction history
 - **Admin Panel**: Administrative dashboard with full control
 
-### 🎨 User Interface
+### 6 User Interface
 - Modern, responsive design with gradient backgrounds
 - Intuitive navigation bar for easy access to all features
 - Clean and professional styling
@@ -35,7 +35,7 @@ The Library Management System is a React-based web application designed to strea
 
 ---
 
-## 🛠️ Tech Stack
+## 7 Tech Stack
 
 - **Frontend Framework**: [React](https://react.js.org/) (v19.2.6)
 - **Routing**: [React Router DOM](https://reactrouter.com/) (v7.15.1)
@@ -47,7 +47,7 @@ The Library Management System is a React-based web application designed to strea
 
 ---
 
-## 📁 Project Structure
+## 8 Project Structure
 
 ```
 library_management_system_v1/
@@ -80,7 +80,7 @@ library_management_system_v1/
 
 ---
 
-## 🚀 Getting Started
+## 9 Getting Started
 
 ### Prerequisites
 - Node.js (v14 or higher)
@@ -110,7 +110,7 @@ library_management_system_v1/
 
 ---
 
-## 📖 Available Scripts
+## 10 Available Scripts
 
 ### `npm start`
 Runs the app in development mode with hot-reload enabled.
@@ -130,64 +130,64 @@ Builds the app for production to the `build` folder.
 - Filenames include content hashes for caching
 
 ### `npm run eject`
-⚠️ **Warning**: This is a one-way operation!
+ **Warning**: This is a one-way operation!
 - Exposes all configuration files and dependencies
 - Only use if you need full control over configuration
 - You won't be able to revert this action
 
 ---
 
-## 🔑 Key Pages & Features
+##  Key Pages & Features
 
-### 🏠 Home Page
+### 11 Home Page
 - Landing page with project overview
 - Quick navigation to login/signup
 - Featured links to main features
 
-### 🔐 Authentication
+### 12 Authentication
 - **Login Page**: User authentication with credential validation
 - **Signup Page**: New user registration and account creation
 
-### 👨‍💼 Admin Panel
+### 13 Admin Panel
 - Centralized dashboard for administrators
 - Full control over all library operations
 - Management tools for books, students, and settings
 
-### 👨‍🎓 Student Records
+### 14 Student Records
 - View and manage all student profiles
 - Track student library activities
 - Maintain student contact information
 
-### 📕 Issue & Return Books
+### 15 Issue & Return Books
 - Issue books to students
 - Track return status and dates
 - Automatic history logging
 - Alert system for overdue books
 
-### 💰 Fine Calculation
+### 16 Fine Calculation
 - Automatic fine calculation for overdue books
 - Configurable fine rates
 - Payment tracking
 
-### 🔔 Notifications
+### 17 Notifications
 - Send notifications to students
 - Notification history
 - Important alerts and reminders
 
-### 📊 Reports
+### 18 Reports
 - Generate library usage reports
 - Analytics and statistics
 - Book circulation data
 - Student activity reports
 
-### 📜 History
+### 19 History
 - Complete transaction history
 - Book issue/return timeline
 - Audit trail for all operations
 
 ---
 
-## 💾 Data Storage
+## 20 Data Storage
 
 The application uses **Browser LocalStorage** for data persistence:
 
@@ -202,7 +202,7 @@ The application uses **Browser LocalStorage** for data persistence:
 
 ---
 
-## 🔄 Application Flow
+## 21 Application Flow
 
 ```
 User Access
@@ -225,7 +225,7 @@ Home Page → Login/Signup
 
 ---
 
-## 🎨 Styling & Design
+## 22 Styling & Design
 
 - **Color Scheme**: Dark theme with cyan/sky blue accents (#38bdf8)
 - **Background**: Gradient backgrounds for modern look
@@ -234,7 +234,7 @@ Home Page → Login/Signup
 
 ---
 
-## 🐛 Troubleshooting
+## 23 Troubleshooting
 
 ### Port Already in Use
 If port 3000 is already in use:
@@ -261,7 +261,7 @@ Clear browser cache and restart:
 
 ---
 
-## 📦 Building for Production
+## 24 Building for Production
 
 1. Build the application:
    ```bash
@@ -279,7 +279,7 @@ Clear browser cache and restart:
 
 ---
 
-## 🔄 Future Enhancements
+## 25 Future Enhancements
 
 - [ ] Backend API integration (Node.js/Express)
 - [ ] Database (MongoDB/PostgreSQL)
@@ -294,13 +294,13 @@ Clear browser cache and restart:
 
 ---
 
-## 📝 License
+## 26 License
 
 This project is open source and available for educational purposes.
 
 ---
 
-## 👨‍💻 Contributing
+## 27 Contributing
 
 Contributions are welcome! Feel free to:
 1. Fork the repository
@@ -310,13 +310,13 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📞 Support
+## 28 Support
 
 For issues, questions, or suggestions, please open an issue on GitHub or contact the development team.
 
 ---
 
-## 📚 Useful Resources
+## 29 Useful Resources
 
 - [React Documentation](https://react.dev/)
 - [React Router Documentation](https://reactrouter.com/)
@@ -325,7 +325,7 @@ For issues, questions, or suggestions, please open an issue on GitHub or contact
 
 ---
 
-**Happy Coding! 🚀**
+**Happy Coding! **
 
 ### Analyzing the Bundle Size
 
